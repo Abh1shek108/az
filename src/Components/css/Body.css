@@ -1,0 +1,7 @@
+.body {
+    <p className='para' style={{ fontWeight: 'bold', fontSize: '5px' }}></p>
+    padding: 80px;
+    margin-top: 1300px;
+    text-align: center;
+    height: 100vh;
+}
